@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **IOS Development and Swift**
 
-- 📫 How to reach me **dogukanvarilmaz@icloud.com**
+- 📫 How to reach me **Linkedin Adress**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
