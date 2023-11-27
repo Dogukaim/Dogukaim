@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doğukan </h1>
-<h3 align="center">A passionate İOS developer from Turkey</h3>
+<h3 align="center">I have a great passion about iOS development!</h3>
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukaim&label=Profile%20views&color=0e75b6&style=flat" alt="dogukaim" /> </p>
